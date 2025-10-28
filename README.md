@@ -1,6 +1,4 @@
-# stardom-os
-A personal operating system for achieving elite-level acting performance, creative mastery, and strategic breakthroughs in Hollywood.
-# 🎬 STARDOM OS
+# 🎬 Hollywood Mastery Destiny Protocol
 
 > The Ultimate System for Achieving Hollywood Superstar Status by 2026
 
@@ -24,79 +22,80 @@ A comprehensive progressive web application designed to systematically engineer 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/stardom-os.git
+   git clone https://github.com/yourusername/hollywood-mastery-destiny-protocol.git
    cd hollywood-mastery-destiny-protocol
-```
+   ```
 
-1. Deploy instantly
-   · Serve index.html with any web server
-   · Or open directly in modern browsers
-   · No build process or dependencies required
-2. Start your journey
-   · Set your Definite Chief Aim
-   · Configure daily intensity level
-   · Begin tracking domain progress
-   · Build your Hollywood breakthrough streak
+2. **Deploy instantly**
+   - Serve `index.html` with any web server  
+   - Or open directly in modern browsers  
+   - No build process or dependencies required
 
-📱 PWA Installation
+3. **Start your journey**
+   - Set your Definite Chief Aim  
+   - Configure daily intensity level  
+   - Begin tracking domain progress  
+   - Build your Hollywood breakthrough streak  
 
-1. Visit the deployed site on your mobile device
-2. Tap "Add to Home Screen" when prompted
-3. Launch like a native app with full offline functionality
+## 📱 PWA Installation
 
-🎯 Core Components
+1. Visit the deployed site on your mobile device  
+2. Tap "Add to Home Screen" when prompted  
+3. Launch like a native app with full offline functionality  
 
-Domain System
+## 🎯 Core Components
 
-· 🎭 Creation (40 XP/day): Acting, study, creative work
-· 💪 Physical (40 XP/day): Martial arts, gym, cardio
-· 🧘 Meditation (40 XP/day): Mindfulness, breathwork, visualization
-· 😴 Recovery (40 XP/day): Sleep, nutrition, planning
+### Domain System
 
-Competition Modes
+- 🎭 **Creation (40 XP/day)**: Acting, study, creative work  
+- 💪 **Physical (40 XP/day)**: Martial arts, gym, cardio  
+- 🧘 **Meditation (40 XP/day)**: Mindfulness, breathwork, visualization  
+- 😴 **Recovery (40 XP/day)**: Sleep, nutrition, planning  
 
-· 🎬 Hollywood Standard (160 XP): 1 Scary + 2 Critical tasks
-· ⭐ Superstar Mode (200 XP): 2 Scary + 3 Critical tasks
-· 🏆 Legend Protocol (240 XP): 3 Scary + Industry outreach
+### Competition Modes
 
-Analytics Dashboard
+- 🎬 **Hollywood Standard (160 XP)**: 1 Scary + 2 Critical tasks  
+- ⭐ **Superstar Mode (200 XP)**: 2 Scary + 3 Critical tasks  
+- 🏆 **Legend Protocol (240 XP)**: 3 Scary + Industry outreach  
 
-· Momentum scoring and trend analysis
-· Hollywood 2026 probability calculator
-· Streak tracking with urgency alerts
-· Weekly heatmap visualization
+### Analytics Dashboard
 
-🔧 Technology Stack
+- Momentum scoring and trend analysis  
+- Hollywood 2026 probability calculator  
+- Streak tracking with urgency alerts  
+- Weekly heatmap visualization  
 
-· Frontend: Pure HTML5, CSS3, JavaScript (ES6+)
-· Storage: LocalStorage with corruption recovery
-· PWA: Service Worker, Web App Manifest
-· Design: iOS-inspired design system
-· Performance: Debounced inputs, efficient rendering
+## 🔧 Technology Stack
 
-📊 Data Export
+- **Frontend:** Pure HTML5, CSS3, JavaScript (ES6+)  
+- **Storage:** LocalStorage with corruption recovery  
+- **PWA:** Service Worker, Web App Manifest  
+- **Design:** iOS-inspired design system  
+- **Performance:** Debounced inputs, efficient rendering  
+
+## 📊 Data Export
 
 Comprehensive CSV export capabilities:
 
-· Daily progress reports
-· Task completion history
-· Domain mastery analytics
-· Hollywood metrics tracking
+- Daily progress reports  
+- Task completion history  
+- Domain mastery analytics  
+- Hollywood metrics tracking  
 
-🤝 Contributing
+## 🤝 Contributing
 
-We welcome contributions from fellow destiny engineers! Please see our Contributing Guide and read our Code of Conduct.
+We welcome contributions from fellow destiny engineers! Please see our **Contributing Guide** and read our **Code of Conduct**.
 
-🎭 Vision
+## 🎭 Vision
 
-"To become the first South Asian Hollywood superstar by 2026 and establish the 636 SVK Academy for enlightened education by 2040."
+> "To become the first South Asian Hollywood superstar by 2026 and establish the 636 SVK Academy for enlightened education by 2040."
 
-📄 License
+## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **MIT License** - see the LICENSE file for details.
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
-· Inspired by Napoleon Hill's "Definite Chief Aim"
-· Built with the discipline of a martial artist
-· Designed for the focus of a Hollywood professional
+- Inspired by Napoleon Hill's *Definite Chief Aim*  
+- Built with the discipline of a martial artist  
+- Designed for the focus of a Hollywood professional  

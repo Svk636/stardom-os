@@ -1,0 +1,41 @@
+{
+  "":{
+  "name": "stardom os",
+  "version": "1.0.0",
+  "description": "A personal operating system for achieving elite-level acting performance, creative mastery, and strategic breakthroughs in Hollywood..",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python -m http.server 8000",
+    "build": "echo 'No build step yet — add one when using bundler or framework'",
+    "deploy": "echo 'Deploy to your preferred static hosting provider'"
+  },
+  "keywords": [
+    "pwa",
+    "productivity",
+    "hollywood",
+    "goal-tracking",
+    "self-development",
+    "destiny-engineering",
+    "enlightened-mastery",
+    "svk-flow"
+  ],
+  "author": "Santosh Kapse",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svk636/stardom-os.git"
+  },
+  "homepage": "https://svk636.github.io/stardom-os/",
+  "bugs": {
+    "url": "https://github.com/svk636/stardom-os/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "browserslist": [
+    "last 1 versions",
+    "not dead",
+    "not ie < 11"
+  ]
+}}
